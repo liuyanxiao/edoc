@@ -1,0 +1,10 @@
+*{ margin: 0;padding: 0;border:0px;list-style-type:none; font-size:12px;text-decoration: none;}
+body,html{ width: 100%;height: 100%;}
+
+/**
+* layout CSS
+**/
+header{width:100%; height: 80px; position: absolute; top: 0; background: #006600;}
+#container{position: absolute; top: 90px;bottom: 0;overflow: hidden}
+#slideBar{width: 200px;height: 100%; float: left; background: #ffe87c}
+#content{margin-left: 210px;height: 100%;background: #cccccc}
